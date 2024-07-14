@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ROHAN TAKMOGE</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="350"  style="margin-left: 75%; padding-left: 81px;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🌱 I’m currently learning **Asp.net MVC**
 
