@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-takmoge&show_icons=true&locale=en" alt="rohan-takmoge" /></p>
 
-<img align="right" alt="coding" width="500px" src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif">
+<img align="center" alt="coding" style="max-width : 100%" src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif">
