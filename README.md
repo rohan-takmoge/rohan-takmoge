@@ -1,4 +1,4 @@
-![logo] (https://github.com/rohan-takmoge/rohan-takmoge/blob/main/Github%20Banner.png)
+![logo](https://github.com/rohan-takmoge/rohan-takmoge/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm ROHAN TAKMOGE</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
