@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="300px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style=" padding-left: 81px;">
 
-- 🌱 I’m currently learning **Asp.net MVC**
+- 🌱 Recently completed my **B.E. in Information Technology** from P.E.S. Modern College of Engineering, Pune.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohan-takmoge/](https://github.com/rohan-takmoge/)
 
