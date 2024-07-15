@@ -1,9 +1,12 @@
 ![logo](https://github.com/rohan-takmoge/rohan-takmoge/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm ROHAN TAKMOGE</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/rohan-takmoge/count.svg?"  />
-</div>
+</div> -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rohan-takmoge&&style=flat-square" align="center" />
+</div>  
 
 ###
 <img align="right" alt="coding" width="300px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style=" padding-left: 81px;">
