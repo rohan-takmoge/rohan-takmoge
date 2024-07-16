@@ -28,6 +28,7 @@
 <a href="https://twitter.com/rohtak1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohtak1907" height="30" width="40" style="margin-right: 10px;" /></a>
 <a href="https://www.linkedin.com/in/rohan-takmoge-141b52251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-takmoge" height="30" width="40" style="margin-right: 10px;" /></a>
 <a href="https://www.instagram.com/rohtak1907/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohtak1907" height="30" width="40" style="margin-right: 10px;" /></a>
+<a href="https://www.facebook.com/rohan.takmoge.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan.takmoge" height="30" width="40" style="margin-right: 10px;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
