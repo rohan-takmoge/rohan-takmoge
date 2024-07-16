@@ -13,7 +13,7 @@
 
 - 🌱 Recently completed my **B.E. in Information Technology** from P.E.S. Modern College of Engineering, Pune.
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohan-takmoge/](https://github.com/rohan-takmoge/)
+- 👨‍💻 All of my projects are available at [https://github.com/rohan-takmoge?tab=repositories]
 
 - 💬 Ask me about **ASP.NET core MVC, Data Structures and Algorithms, Object-oriented programming, SQL**
 
