@@ -11,11 +11,11 @@
 ###
 <img align="right" alt="coding" width="300px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style=" padding-left: 81px;">
 
-- 🌱 Recently completed my **B.E. in Information Technology** from P.E.S. Modern College of Engineering, Pune.
+- 🎓 Recently completed my **B.E. in Information Technology** from P.E.S. Modern College of Engineering, Pune.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohan-takmoge?tab=repositories]
 
-- 💬 Ask me about **ASP.NET core MVC, Data Structures and Algorithms, Object-oriented programming, SQL**
+- 💬 Ask me about **ASP.NET core MVC, Data Structures and Algorithms, Object-oriented programming and SDLC**
 
 - 📫 How to reach me **rohantakmoge19@gmail.com**
 
